@@ -1,5 +1,7 @@
 # Weather API
-React App that show the current weather of any city.Before running the app first install the node modules using "node i -save".
+React App that show the current weather of any city.
+
+Before running the app first install the node modules using "node i -save".
 
 # Getting Started with Create React App
 
