@@ -43,10 +43,14 @@ function App() {
       });
   };
 
+  let check = () =>{
+    alert("right");
+  };
+
   return (
     <>
       <div className="container">
-        <div className="text-center input-group">
+        <div className="text-center input-group" onKeyDown={Weather}>
           <input
             type="search"
             className="form-control rounded"
